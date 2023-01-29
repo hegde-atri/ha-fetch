@@ -1,3 +1,5 @@
-#+title: Music manager
+#+title: ha-fetch
 #+author: Atri Hegde
-#+description: Manage metadata of your musics easily
+#+description: hegde-atri fetch
+
+Another fetch application, to learn rust.

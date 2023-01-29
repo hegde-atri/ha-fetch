@@ -1,8 +1,6 @@
 [package]
-name = "Music manager"
+name = "ha-fetch"
 version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-iced = { version = "0.6", features = ["image", "debug"] }
-env_logger = "0.8"
